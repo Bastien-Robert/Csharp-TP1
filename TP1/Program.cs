@@ -161,7 +161,7 @@ namespace TP1
                 Console.WriteLine();
             }
         }
-        
+
         static void Main(string[] args)
         {
             int exoNumber;
@@ -197,6 +197,7 @@ namespace TP1
                 }
                 else if (exoNumber == 5)
                 {
+                    Console.WriteLine("Désolé je n'ai pas réussi à faire l'exo 5 !");
                     //Exo5();
                 }
                 Console.WriteLine();
